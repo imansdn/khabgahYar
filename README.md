@@ -15,5 +15,5 @@ KhabgahYar uses a number of open source projects to work properly:
 * [Requests] - the only Non-GMO HTTP library for Python!
 * [mysql] - MySQL is an open source relational database management system (RDBMS).
 
-And of course KhabgahYar itself is open source with a [public repository][imansdn/khabgahYar]
+And of course KhabgahYar itself is open source with a [public repository][https://github.com/imansdn/khabgahYar/blob/master/KhabgahYar.py]
  on GitHub.
