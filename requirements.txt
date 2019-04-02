@@ -1,0 +1,5 @@
+unidecode
+sklearn
+mysql
+requests
+bs4
