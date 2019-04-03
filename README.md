@@ -33,7 +33,7 @@ Want to contribute? Great!
 Fork and make your changes in the source and instantanously send your pull request!
 
 ## Acknowledgments
-Thanks to [Jadi](https://github.com/jadijadi) for helping me as a super professor in this project ❤❤❤ .
+Thanks to [Jadi](https://github.com/jadijadi) for helping me as a super professor in this project ❤ .
 
 ## Run and enjoy!
 ![run project](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm1.png)
