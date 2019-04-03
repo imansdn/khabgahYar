@@ -17,3 +17,15 @@ KhabgahYar uses a number of open source projects to work properly:
 
 And of course KhabgahYar itself is open source with a [public repository](https://github.com/imansdn/khabgahYar)
  on GitHub.
+
+ #### Run and enjoy!
+![run project](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm1.png)
+#### write your city
+![which city?](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm3.png)
+#### write your prepayment
+![how much prepayment?](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm4.png)
+#### write your monthly rent
+![how much monthly rent?](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm5.png)
+#### look at the result!
+![look at the result!](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm6.png)
+
