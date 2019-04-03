@@ -1,8 +1,8 @@
 # khabgahYar
-Find a dormitory with the help of machine learning in 4 steps:
+khabgahYar finds a dormitory with the help of machine learning in 4 steps:
 
  - 1) ask your city and how much money do you have .
- - 2) get and parse datas from "divar.ir" .
+ - 2) get datas from "divar.ir" and parse them (web scrapping).
  - 3) filter and add them to databse .
  - 4) use machine learning to find a suitable dormitory for you .
  
