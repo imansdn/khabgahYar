@@ -18,6 +18,9 @@ KhabgahYar uses a number of open source projects to work properly:
 And of course KhabgahYar itself is open source with a [public repository](https://github.com/imansdn/khabgahYar)
  on GitHub.
 
+ ### Information Resources
+
+KhabgahYar use [Divar](https://www.divar.ir)(a classified ads app in Iran with more than 13 million active Installations in the year )
 
  ### Run and enjoy!
 ![run project](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm1.png)
