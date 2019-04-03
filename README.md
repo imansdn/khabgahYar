@@ -1,5 +1,5 @@
 # khabgahYar
-Find a dormitory with the help of machine learning in four steps:
+Find a dormitory with the help of machine learning in 4 steps:
 
  - 1) get and parse details .
  - 2) filter and add them to databse .
