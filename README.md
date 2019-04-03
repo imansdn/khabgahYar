@@ -30,7 +30,7 @@ KhabgahYar use [Divar](https://www.divar.ir)(a classified ads platform in Iran w
     
 ## Development
 Want to contribute? Great!
-Fork and make your changes in the source and instantanously send your pull request!
+Fork and make your changes in the source and instantaneously send your pull request!
 
 ## Acknowledgments
 Thanks to [Jadi](https://github.com/jadijadi) for helping me as a super professor in this project ❤ .
