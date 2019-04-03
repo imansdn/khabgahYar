@@ -21,6 +21,14 @@ And of course KhabgahYar itself is open source with a [public repository](https:
 ## Information Resources
 
 KhabgahYar use [Divar](https://www.divar.ir)(a classified ads app in Iran with more than 13 million active Installations in the year )
+## Briefly about 
+ ### Sk-learn
+	   ./word-count "tree" "sort" < "inputfile" > "outputfile"
+    x = [(input1,input2,...)]
+    y = [(output1)]
+    clf = tree.DecisionTreeClassifier()
+    clf.fit(x, y)
+    answer = clf.predict([[new_input1, new_input2,...]])
 
 ## Run and enjoy!
 ![run project](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm1.png)
