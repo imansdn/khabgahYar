@@ -27,6 +27,13 @@ KhabgahYar use [Divar](https://www.divar.ir)(a classified ads app in Iran with m
     clf = tree.DecisionTreeClassifier()
     clf.fit(x, y)
     answer = clf.predict([[new_input1, new_input2,...]])
+    
+## Development
+Want to contribute? Great!
+Fork and make your changes in the source and instantanously send your pull request!
+
+## Acknowledgments
+Thanks to [Jadi](https://github.com/jadijadi) for helping me as a super professor in this project.
 
 ## Run and enjoy!
 ![run project](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm1.png)
