@@ -6,7 +6,7 @@ Find a dormitory with the help of machine learning from divar.ir in three steps:
  - ask your city and how much money do you have? .
  - use machine learning to find a suitable dormitory for you .
  
- ### Tech
+## Tech
 
 KhabgahYar uses a number of open source projects to work properly:
 
@@ -18,11 +18,11 @@ KhabgahYar uses a number of open source projects to work properly:
 And of course KhabgahYar itself is open source with a [public repository](https://github.com/imansdn/khabgahYar)
  on GitHub.
 
- ### Information Resources
+## Information Resources
 
 KhabgahYar use [Divar](https://www.divar.ir)(a classified ads app in Iran with more than 13 million active Installations in the year )
 
- ### Run and enjoy!
+## Run and enjoy!
 ![run project](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm1.png)
 #### which city?
 ![which city?](https://github.com/imansdn/khabgahYar/blob/master/screenShots/dorm3.png)
